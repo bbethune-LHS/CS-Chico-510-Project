@@ -1,4 +1,5 @@
 I. Context
+
 I have been teaching math at Leigh HS in San Jose for the last twenty years.  Leigh has roughly 1800 students.  Most of these students belong to upper middle 
 class, tech-savvy families, and Leigh has, within the last two years, issued every student a Chrome Book.  Our school has a high-speed wireless network, and the 
 administration, faculty, students, and parents are all connected online through email, newsletters, and the Canvas platform that the school has adopted as a course 
@@ -69,7 +70,9 @@ distance-learning model
 
 
 II. Plan
+
 Software Components:
+
 •	Integrated Development Environments (IDEs) w/incorporated compilers/debuggers
 o	Codehs (www.codehs.org ) ** this one worked well during CSED-501
 o	Eclipse (www.eclipse.org )
@@ -93,6 +96,7 @@ o	Zoom (www.zoom.us )
 
 
 II. Plan
+
 Application of Technology:
 	
 Students will use their choice of IDEs for coding, though, as I learn more about their respective features, I will be in a better position to make 
@@ -128,4 +132,3 @@ allow those students to guide and counsel novice programmers in the class.
   
 Finally, in the event that CSA classes have to suddenly change modalities (if, because of Covid, for instance, we had to return to a distance-learning model), 
 then classes would be conducted on Zoom, and I would use my document camera extensively, both to lecture and to demonstrate solutions to students’ questions.
-
